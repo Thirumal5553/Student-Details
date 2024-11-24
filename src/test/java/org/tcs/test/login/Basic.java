@@ -2,12 +2,12 @@ package org.tcs.test.login;
 
 public class Basic {
 	public void studentName() {
-		System.out.println("Thirumal");
+		System.out.println("Anand");
 
 	}
 	
 	public void studentAge() {
-		System.out.println("29");
+		System.out.println("28");
 	}
 
 	public static void main(String[] args) {
